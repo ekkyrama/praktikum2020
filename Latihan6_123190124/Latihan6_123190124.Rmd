@@ -2,9 +2,7 @@
 title: "Latihan6_123190124"
 author: "Ekky Ramadhan"
 date: "11/10/2021"
-output:
-  pdf_document: default
-  html_document: default
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
